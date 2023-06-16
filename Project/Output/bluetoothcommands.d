@@ -1,0 +1,15 @@
+.\output\bluetoothcommands.o: ..\User\bluetoothCommands.c
+.\output\bluetoothcommands.o: ..\User\bluetoothCommands.h
+.\output\bluetoothcommands.o: ..\User\globaldecimport.h
+.\output\bluetoothcommands.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\output\bluetoothcommands.o: ..\User\constantes.h
+.\output\bluetoothcommands.o: ..\Libraries\LCP1768_StdPeriph_Driver\include\lpc17xx_i2c.h
+.\output\bluetoothcommands.o: ..\Libraries\CM3\DeviceSupport\NXP\LPC17xx\LPC17xx.h
+.\output\bluetoothcommands.o: ..\Libraries\CM3\CoreSupport\core_cm3.h
+.\output\bluetoothcommands.o: ..\Libraries\CM3\CoreSupport\core_cmInstr.h
+.\output\bluetoothcommands.o: ..\Libraries\CM3\CoreSupport\core_cmFunc.h
+.\output\bluetoothcommands.o: ..\Libraries\CM3\DeviceSupport\NXP\LPC17xx\system_LPC17xx.h
+.\output\bluetoothcommands.o: ..\Libraries\LCP1768_StdPeriph_Driver\include\lpc_types.h
+.\output\bluetoothcommands.o: ..\User\bluetooth.h
+.\output\bluetoothcommands.o: ..\User\annexes.h
+.\output\bluetoothcommands.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h

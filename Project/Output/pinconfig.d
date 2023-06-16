@@ -1,0 +1,11 @@
+.\output\pinconfig.o: ..\User\pinconfig.c
+.\output\pinconfig.o: ..\User\pinconfig.h
+.\output\pinconfig.o: ..\Libraries\LCP1768_StdPeriph_Driver\include\lpc17xx_gpio.h
+.\output\pinconfig.o: ..\Libraries\CM3\DeviceSupport\NXP\LPC17xx\LPC17xx.h
+.\output\pinconfig.o: ..\Libraries\CM3\CoreSupport\core_cm3.h
+.\output\pinconfig.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\output\pinconfig.o: ..\Libraries\CM3\CoreSupport\core_cmInstr.h
+.\output\pinconfig.o: ..\Libraries\CM3\CoreSupport\core_cmFunc.h
+.\output\pinconfig.o: ..\Libraries\CM3\DeviceSupport\NXP\LPC17xx\system_LPC17xx.h
+.\output\pinconfig.o: ..\Libraries\LCP1768_StdPeriph_Driver\include\lpc_types.h
+.\output\pinconfig.o: ..\Libraries\LCP1768_StdPeriph_Driver\include\lpc17xx_pinsel.h
